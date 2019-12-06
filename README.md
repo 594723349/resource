@@ -1,6 +1,6 @@
 # 资源整合包
 
-### CentOS7安装yum 参考出处https://www.jianshu.com/p/7a2a91109835 ###
+### CentOS7安装yum 出处https://www.jianshu.com/p/7a2a91109835 ###
 
 1、查询原有yum
 rpm -qa |grep yum 
